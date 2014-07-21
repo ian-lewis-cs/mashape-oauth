@@ -1,6 +1,6 @@
 # The OAuth Bible
 
-I tried to make this as understandable as possible for any party reading it which means that the wording, references, and terminology used may not reflect that of a technical paper or resource. Excuse me if you may for I wish all to understand this, and not just those with a degree in understanding legal or technical jargon.
+I tried to make this as understandable as possible for any party reading it which means that the wording, references, and terminology used may not reflect that of a technical paper or resource. My intention is for all to understand this, and not just those with a degree in understanding legal or technical jargon.
 
 Created with love by http://mashape.com
 
@@ -39,7 +39,7 @@ Created with love by http://mashape.com
 * OAuth Token Secret
   - This is a secret generally sent with the response for a certain token. Used for exchanges / refreshing.
 * Query
-  - Part of the URL that contains key-value data invoked by the `?` symbol, the keys and values are seperated by the `=` sign and each data-store is seperated by the `&` symbol: `?query=looks&like=this`
+  - Part of the URL that contains key-value data invoked by the `?` symbol, the keys and values are separated by the `=` sign and each data-store is seperated by the `&` symbol: `?query=looks&like=this`
 * Parameter / Argument
   - These are snippets of information that have a name reference such as `oauth_token="helloWorld"` where `oauth_token` is the parameter or argument and `helloWorld` is the value.
 * Plaintext
